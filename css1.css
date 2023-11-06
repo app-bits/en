@@ -1,0 +1,1418 @@
+.cPsFSD {
+    z-index: 1049;
+    position: fixed;
+}
+
+.dWdsor {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+}
+
+.cPsFSD header {
+    width: 100%;
+}
+
+
+.inSRWQ {
+    border-top: 1px solid rgb(209, 216, 223);
+    border-bottom: 1px solid rgb(209, 216, 223);
+    border-image: initial;
+    background: rgb(255, 255, 255);
+    box-sizing: border-box;
+    border-right: none;
+    border-left: none;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    padding: 0px 16px;
+    width: 100%;
+}
+@media screen and (min-width: 1300px) {
+	.inSRWQ {
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding: 0px max(50% - 720px + 40px, 40px);
+	}
+}
+
+
+
+.llkcBL {
+    transition: all 0.15s ease 0s;
+    display: block;
+    cursor: pointer;
+    padding: 0px 8px 0px 0px;
+}
+
+@media screen and (min-width: 1300px){
+.llkcBL {
+    padding: 14px 8px 14px 0px;
+}
+}
+
+.eHJoNo {
+    color: rgb(25, 30, 35);
+}
+
+
+
+.eaPcfy {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    max-width: 1440px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+
+@media screen and (min-width: 1300px) {
+.eaPcfy {
+    padding-left: 40px;
+    width: 100%;
+}
+}
+
+.jfEiQa {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+
+.iHtcx {
+    white-space: nowrap;
+    padding: 24px;
+    margin: 0px 2px;
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+    font-weight: 400;
+    font-family: Bitso, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-image: initial;
+    transition: all 0.15s ease 0s;
+    cursor: pointer;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    color: rgb(25, 30, 35);
+    border-bottom: 1px solid rgb(255, 255, 255);
+    background: rgb(255, 255, 255);
+}
+
+
+
+@media screen and (min-width: 768px) {
+.iHtcx {
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+    font-weight: 400;
+}
+}
+
+@media screen and (min-width: 1300px) {
+.iHtcx {
+    padding: 24px 12px;
+}
+}
+
+@media screen and (min-width: 1300px) {
+.iHtcx {
+    background: rgb(255, 255, 255);
+    border-bottom: 1px solid rgb(255, 255, 255);
+}
+}
+
+.iHtcx svg {
+    transform: rotate(0deg);
+    margin-left: 8px;
+    transition: all 0.15s ease 0s;
+}
+
+.hRWUSL {
+    display: flex;
+}
+
+.jLJyAA {
+    display: flex;
+    position: relative;
+}
+
+.WJwre {
+    white-space: nowrap;
+    position: relative;
+    transition: all 0.15s ease 0s;
+    background: none;
+    border: none;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    color: rgb(25, 30, 35);
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+    font-weight: 400;
+    cursor: pointer;
+    border-radius: 4px;
+    padding: 8px;
+    width: auto;
+    margin-right: 16px;
+}
+
+@media screen and (min-width: 768px) {
+.WJwre {
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+    font-weight: 700;
+}
+}
+
+.WJwre svg {
+    color: rgb(74, 87, 96);
+}
+
+.gvJghw {
+    margin: 0px 8px;
+}
+
+.WJwre span + svg {
+    transform: rotate(0deg);
+    margin-left: 8px;
+    transition: all 0.15s ease 0s;
+}
+
+.haUDpp {
+    display: flex;
+    gap: 16px;
+}
+
+
+
+.jYcYnB {
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 4px;
+    height: auto;
+    width: auto;
+    border: none;
+    background: none;
+    border-radius: 4px;
+    color: rgb(9, 131, 0);
+    margin: 0px;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.15s ease 0s;
+    white-space: nowrap;
+}
+
+.bRGirM {
+    margin: 12px 0px;
+    color: rgb(74, 87, 96);
+}
+
+
+.eTYgHQ {
+    display: flex;
+    min-height: 100%;
+    flex-direction: column;
+    padding: 58px 0px 0px;
+}
+
+@media screen and (min-width: 1300px) {
+.eTYgHQ {
+    padding: 75px 0px 0px;
+}
+}
+
+.hpbkgq {
+    background-color: rgb(255, 255, 255);
+}
+
+
+.gpGEjV {
+    height: auto;
+    padding: 0px;
+    margin: inherit;
+    max-width: 1280px;
+}
+
+.gjkrnb {
+    width: 360px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media screen and (min-width: 768px) {
+.gjkrnb {
+    width: 560px;
+}
+}
+
+.ceMBR {
+    display: none;
+    transition: all 0.3s ease-in-out 0s;
+}
+
+@media screen and (min-width: 768px) {
+.ceMBR {
+    display: block;
+    position: fixed;
+    inset: 0px;
+    width: 100%;
+    height: auto;
+    margin-top: 60px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://assets.bitso.com/static/media/RegisterIllustration.67215a88ddcc22f8da84.jpg);
+}
+}
+
+@media screen and (min-width: 1300px) {
+.ceMBR {
+    background-image: url(https://assets.bitso.com/static/media/RegisterIllustration.67215a88ddcc22f8da84.jpg);
+}
+}
+
+
+.inxfHK {
+    display: flex;
+    align-items: flex-start;
+    padding: 16px;
+    background: rgb(255, 241, 193);
+    border-radius: 4px;
+}
+
+.kWwjJp {
+    position: relative;
+    margin: 24px 0px 0px;
+}
+
+.kvrmvP {
+    display: flex;
+    flex-direction: column;
+    margin-left: 8px;
+    color: rgb(25, 30, 35);
+    flex: 1 1 0%;
+}
+
+.kvrmvP h2 {
+    font-size: 1rem;
+    line-height: 1.75rem;
+    font-weight: 700;
+    margin: 0px;
+}
+
+@media screen and (min-width: 768px) {
+.kvrmvP h2 {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 700;
+}
+}
+
+
+.ZlFBb {
+    font-size: 1rem;
+    line-height: 1.75rem;
+    font-weight: 400;
+    color: inherit;
+    margin: 0px;
+    padding: 0px;
+}
+
+@media screen and (min-width: 768px) {
+.ZlFBb {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 400;
+}
+}
+
+.kvrmvP p {
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+    font-weight: 400;
+    margin: 0px;
+}
+
+@media screen and (min-width: 768px) {
+.kvrmvP p {
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+    font-weight: 400;
+}
+}
+
+.kvrmvP p a {
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+    font-weight: 400;
+    color: rgb(25, 30, 35);
+}
+
+
+@media screen and (min-width: 768px) {
+.kvrmvP p a {
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+    font-weight: 700;
+}
+}
+
+
+.cbqVCJ {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 32px 24px;
+    position: relative;
+    width: 360px;
+    margin: 0px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 4px;
+}
+
+@media screen and (min-width: 768px) {
+.cbqVCJ {
+    padding: 56px 64px;
+    margin: 16px 0px;
+    border-radius: 4px;
+    width: 560px;
+}
+}
+
+.cGUPeC {
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    font-weight: 700;
+    color: rgb(25, 30, 35);
+    margin: 0px;
+    padding: 0px;
+}
+
+@media screen and (min-width: 768px) {
+.cGUPeC {
+    font-size: 1.75rem;
+    line-height: 2rem;
+    font-weight: 700;
+}
+}
+
+.kVmAwj {
+    float: left;
+    margin-right: 4px;
+}
+
+@media screen and (min-width: 768px) {
+.kVmAwj {
+    margin: 3px 5px 0px 0px;
+    height: 30px;
+    width: 30px;
+}
+}
+
+.bYTBpv {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 32px 0px;
+    gap: 32px;
+    width: 100%;
+}
+
+.eCqSS {
+    width: 100%;
+    position: relative;
+    margin: 0px 0px 4px;
+}
+
+.bCSunu {
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 48px;
+    transition: all 0.2s ease-in-out 0s, background 0s ease 0s;
+    border-radius: 8px;
+    z-index: 1;
+    background: rgb(255, 255, 255);
+}
+
+@media screen and (min-width: 1280px) {
+.bCSunu {
+    height: 40px;
+}
+}
+
+.biNfxi:placeholder-shown {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgb(74, 87, 96);
+}
+
+.biNfxi {
+    appearance: none;
+    height: 48px;
+    width: 100%;
+    padding: 12px 16px;
+    border-radius: 8px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    transition: all 0.2s ease-in-out 0s, border 0s ease 0s, color 0s ease 0s;
+    background: transparent;
+    position: relative;
+    z-index: 2;
+    font-family: Bitso, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    color: rgb(25, 30, 35);
+    border: 1px solid rgb(209, 216, 223);
+}
+
+@media screen and (min-width: 1280px) {
+.biNfxi {
+    height: 40px;
+}
+}
+
+
+.gVjABH.gVjABH {
+    position: absolute;
+    top: 12px;
+    left: 16px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    border-radius: 2px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    max-width: calc(100% - 32px);
+    z-index: 1;
+    background: rgb(255, 255, 255);
+    transition: all 0.2s ease-in-out 0s, background 0s ease 0s, color 0s ease 0s;
+    font-family: Bitso, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    color: rgb(74, 87, 96);
+}
+
+@media screen and (min-width: 1280px) {
+.gVjABH.gVjABH {
+    top: 8px;
+}
+}
+
+.dJwbZy {
+    position: absolute;
+    left: 12px;
+    height: 16px;
+    width: auto;
+    font-size: 22px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    transition: all 0.2s ease-in-out 0s;
+    top: 16px;
+    z-index: 3;
+    color: rgb(129, 145, 156);
+}
+
+@media screen and (min-width: 1280px) {
+.dJwbZy {
+    top: 12px;
+}
+}
+
+.EkHcD {
+    left: unset;
+    right: 12px;
+}
+
+.fnMJd:placeholder-shown {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgb(74, 87, 96);
+}
+
+.fnMJd {
+    appearance: none;
+    height: 48px;
+    width: 100%;
+    padding: 12px 37px 12px 16px;
+    border-radius: 8px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    transition: all 0.2s ease-in-out 0s, border 0s ease 0s, color 0s ease 0s;
+    background: transparent;
+    position: relative;
+    z-index: 2;
+    font-family: Bitso, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    color: rgb(25, 30, 35);
+    border: 1px solid rgb(209, 216, 223);
+}
+
+@media screen and (min-width: 1280px) {
+.fnMJd {
+    height: 40px;
+}
+}
+
+.jkbhtT.jkbhtT {
+    position: absolute;
+    top: 12px;
+    left: 16px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 24px;
+    border-radius: 2px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    max-width: calc(100% - 50px);
+    z-index: 1;
+    background: rgb(255, 255, 255);
+    transition: all 0.2s ease-in-out 0s, background 0s ease 0s, color 0s ease 0s;
+    font-family: Bitso, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    color: rgb(74, 87, 96);
+}
+
+@media screen and (min-width: 1280px) {
+.jkbhtT.jkbhtT {
+    top: 8px;
+}
+}
+
+.hBuEjX {
+    left: unset;
+    right: 12px;
+    cursor: pointer;
+}
+
+.dJwbZy > svg {
+    color: rgb(129, 145, 156);
+    fill: rgb(129, 145, 156);
+}
+
+.RyHuH {
+    font-family: Bitso, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-style: normal;
+    text-align: center;
+    border: none;
+    background: none;
+    text-decoration: none;
+    transition: all 0.2s ease 0s, font-size 0s ease 0s;
+    position: relative;
+    cursor: pointer;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    width: fit-content;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    line-height: 24px;
+    color: rgb(9, 131, 0);
+    border-radius: 2px;
+    min-height: 30px;
+    padding: 1px;
+}
+
+.bYTBpv .margin-center {
+    margin: 0px auto;
+}
+
+.gMHkic {
+    position: relative;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    border-radius: 32px;
+    padding: 0px 24px;
+    gap: 8px;
+    height: 48px;
+    width: 100%;
+    background: rgb(238, 240, 247);
+    border: 1px solid rgb(238, 240, 247);
+    color: rgb(175, 188, 198);
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 700;
+    cursor: not-allowed;
+    transition: all 0.15s ease 0s;
+    white-space: nowrap;
+}
+
+@media screen and (min-width: 768px) {
+.gMHkic {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 700;
+}
+}
+
+.bRJzu {
+    position: relative;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    border-radius: 32px;
+    padding: 0px 24px;
+    gap: 8px;
+    height: 48px;
+    width: 100%;
+    background: rgb(41, 172, 0);
+    border: 1px solid rgb(41, 172, 0);
+    color: rgb(255, 255, 255);
+    text-shadow: rgba(12, 15, 18, 0.35) 0px 0px 8px;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.15s ease 0s;
+    white-space: nowrap;
+}
+
+@media screen and (min-width: 768px) {
+.bRJzu {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 700;
+}
+}
+
+.jJkDXK {
+    margin: 0px;
+    padding: 16px;
+    border: 1px solid rgb(209, 216, 223);
+}
+
+@media screen and (min-width: 768px) {
+.jJkDXK {
+    border: none;
+    margin: 0px 0px 112px;
+}
+}
+
+.kVmqKM {
+    font-size: 1rem;
+    line-height: 1.75rem;
+    font-weight: 400;
+    color: rgb(25, 30, 35);
+    margin: 0px;
+    padding: 0px;
+}
+
+@media screen and (min-width: 768px) {
+.kVmqKM {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 400;
+}
+}
+
+.cmQSkM {
+    z-index: 3;
+    margin-top: auto;
+}
+
+.cePmTt {
+    background: rgb(255, 255, 255);
+    border-top: 1px solid rgb(238, 240, 247);
+    color: rgb(99, 114, 124);
+    padding: 12px 56px;
+}
+
+@media screen and (min-width: 840px) {
+.cePmTt {
+    padding: 8px 112px;
+}
+}
+
+.wAphY {
+    -webkit-box-align: center;
+    align-items: center;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    font-family: Bitso, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    flex-wrap: wrap;
+    max-width: 1216px;
+    margin: 0px auto;
+}
+
+@media screen and (min-width: 840px) {
+.wAphY {
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+}
+
+.iDaFvy {
+    -webkit-box-align: center;
+    align-items: center;
+    color: rgb(99, 114, 124);
+    display: block;
+    -webkit-box-pack: center;
+    justify-content: center;
+    text-align: center;
+    margin: 12px 0px;
+    min-width: 312px;
+}
+
+@media screen and (min-width: 768px) {
+.iDaFvy {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 24px 0px;
+}
+}
+
+.cmQSkM svg {
+    box-sizing: unset;
+}
+
+.jCdcDJ {
+    margin: 12px;
+}
+
+.fwJIBu {
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+    font-weight: 400;
+    color: inherit;
+    margin: 0px;
+    padding: 0px;
+}
+
+@media screen and (min-width: 768px) {
+.fwJIBu {
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+    font-weight: 400;
+}
+}
+
+.dBXUnw {
+    display: none;
+}
+
+@media screen and (min-width: 768px) {
+.dBXUnw {
+    display: block;
+    margin: 0px 16px;
+}
+}
+
+.cXYiuC {
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+    font-weight: 400;
+    color: rgb(99, 114, 124);
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+
+@media screen and (min-width: 768px) {
+.cXYiuC {
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+    font-weight: 400;
+}
+}
+
+.cXYiuC::before {
+    content: " ";
+    display: block;
+    width: 6px;
+    height: 6px;
+    margin-right: 8px;
+    background-color: rgb(104, 199, 74);
+    border-radius: 50%;
+    flex: 0 0 auto;
+}
+
+.dMdXOU {
+    display: flex;
+    margin: 12px 0px;
+}
+
+@media screen and (min-width: 840px) {
+.dMdXOU {
+    margin: 24px 0px;
+}
+}
+
+.fngBf {
+    color: rgb(99, 114, 124);
+    margin: 0px 8px;
+}
+
+.ckwhro {
+    border: 1px solid rgb(238, 240, 247);
+    border-radius: 50%;
+    padding: 8px;
+    background: rgb(255, 255, 255);
+}
+
+
+.dHTDMU {
+    width: 100vw;
+    height: 0px;
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    top: 100px;
+    z-index: 20000;
+}
+
+.eYVAYw {
+    left: calc(50% - 50vw);
+    top: 60px;
+    z-index: 2147483647;
+}
+
+
+
+.cCatdZ {
+    height: auto;
+    padding: 0px;
+    margin: 0px auto;
+    max-width: 1280px;
+}
+
+.vzEHz {
+    display: flex;
+    flex-flow: row;
+    height: auto;
+    margin: 0px auto;
+    padding: 0px;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+
+.dWVOMd {
+    border-radius: 16px;
+    padding: 12px 20px 12px 32px;
+    position: relative;
+    margin: 0px auto;
+    color: rgb(177, 16, 48);
+    background: rgb(255, 250, 250);
+    border: 1px solid rgb(234, 23, 47);
+    box-shadow: rgba(234, 23, 47, 0.2) 0px 4px 12px;
+}
+
+
+
+
+.ehwLvS {
+    font-family: Bitso, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: inherit;
+}
+
+
+.hbMIcB {
+    font-size: 16px;
+    border: none;
+    background: none;
+    padding: 0px;
+    width: 16px;
+    height: 15px;
+    top: 16px;
+    right: 16px;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    color: inherit;
+    margin-left: 22px;
+}
+
+
+
+
+
+
+
+
+#toast-container {
+    left: calc(50% - 50vw);
+    top: 60px;
+    z-index: 2147483647;
+}
+
+.toast-top-right {
+    width: 100vw;
+    height: 0px;
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    top: 100px;
+    z-index: 20000;
+}
+
+#toast-container>.toast-warning {
+    border-radius: 16px;
+    padding: 12px 20px 12px 32px;
+    position: relative;
+    margin: 0px auto;
+    color: rgb(177, 16, 48);
+    background: rgb(255, 250, 250);
+    border: 1px solid rgb(234, 23, 47);
+    box-shadow: rgba(234, 23, 47, 0.2) 0px 4px 12px;
+}
+
+#toast-container>div {
+    display: flex;
+    flex-flow: row;
+    height: auto;
+    margin: 0px auto;
+    padding: 0px;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    opacity: .9;
+    width: 560px;
+    max-width: 1280px;
+    
+}
+
+#toast-container * {
+    font-family: Bitso, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: inherit;
+}
+
+button.toast-close-button {
+    padding: 0;
+    cursor: pointer;
+    background: 0 0;
+    border: 0;
+    -webkit-appearance: none;
+}
+
+
+.toast-close-button {
+    font-size: 16px;
+    border: none;
+    background: none;
+    padding: 0px;
+    width: 16px;
+    height: 15px;
+    
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    color: inherit;
+    margin-left: 22px;
+}
+
+
+@media all and (max-width: 240px) {
+    #toast-container>div {
+        padding:8px 8px 8px 50px;
+        width: 11em
+    }
+
+    #toast-container .toast-close-button {
+        right: -.2em;
+        top: -0.2em
+    }
+}
+
+@media all and (min-width: 241px) and (max-width: 480px) {
+    #toast-container>div {
+        padding:8px 8px 8px 50px;
+        width: 335px
+    }
+
+    #toast-container .toast-close-button {
+        right: -.2em;
+        top: -0.2em
+    }
+}
+
+@media all and (min-width: 481px) and (max-width: 767px) {
+    #toast-container>div {
+        padding:15px 15px 15px 50px;
+        width: 25em
+    }
+}
+
+
+.buqJyW {
+    inset: 0px;
+    display: block;
+    padding: 4px;
+    position: fixed;
+    z-index: 1050;
+    background: rgba(129, 145, 156, 0.3);
+}
+
+.hEsndb {
+    flex: 1 1 auto;
+    width: 100%;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+
+.cwwlRY {
+    position: fixed;
+    background: rgb(255, 255, 255);
+    width: 98%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    border-radius: 8px;
+    max-height: 85vh;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    animation: 0.3s ease 0s 1 normal none running fjqWHz;
+    box-shadow: rgb(175, 188, 198) 0px 4px 18px;
+}
+
+
+@media screen and (min-width: 768px){
+.cwwlRY {
+    width: 460px;
+}
+}
+
+@media screen and (min-width: 1280px){
+.cwwlRY {
+    width: 560px;
+}
+}
+
+@media screen and (min-width: 1024px){
+.cwwlRY {
+    width: 576px;
+}
+}
+
+
+.bKgyBX {
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 24px 0px 0px;
+    max-width: 1280px;
+}
+
+.btjTx {
+    display: flex;
+    flex-flow: row;
+    width: 100%;
+    height: 100%;
+    margin: 24px 0px 0px;
+    padding: 0px;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+
+.jCkvcA {
+    height: 72px;
+    flex: 0 0 auto;
+    box-shadow: transparent 0px 12px 12px;
+    position: absolute;
+    z-index: 1;
+    padding: 0px 16px;
+}
+
+
+
+@media screen and (min-width: 768px){
+.jCkvcA {
+    height: 88px;
+}
+}
+
+
+
+@media screen and (min-width: 768px){
+.jCkvcA {
+    padding: 0px 20px;
+}
+}
+
+
+
+
+.fKhnEt {
+    visibility: visible;
+    margin: 0px 12px 0px 0px;
+    color: rgb(129, 145, 156);
+    font-size: 24px;
+    cursor: default;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+}
+
+@media screen and (min-width: 768px){
+.fKhnEt {
+    width: 40px;
+    height: 40px;
+}
+}
+
+
+
+.hzAKuz {
+    visibility: visible;
+    margin: 0px 0px 0px 12px;
+    color: rgb(129, 145, 156);
+    font-size: 26px;
+    cursor: pointer;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+}
+
+@media screen and (min-width: 768px){
+.hzAKuz {
+    width: 40px;
+    height: 40px;
+}
+}
+
+
+.bgaBtf {
+    flex: 0 0 auto;
+}
+
+.HbgYM {
+    height: 100%;
+    padding: 40px 0px;
+    margin: inherit;
+    max-width: 1280px;
+}
+
+
+.bMnjGK {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+
+
+
+
+.bMnjGK h1 {
+    text-align: center;
+}
+
+.bzQAau {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    font-weight: 700;
+    color: rgb(74, 87, 96);
+    margin: 0px;
+    padding: 0px;
+}
+
+
+@media screen and (min-width: 768px){
+.bzQAau {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    font-weight: 700;
+}
+}
+
+
+.gToMWl {
+    display: flex;
+    flex-direction: column;
+    color: rgb(25, 30, 35);
+    font-size: 1rem;
+    line-height: 1.75rem;
+    font-weight: 400;
+    font-family: Bitso, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+@media screen and (min-width: 768px){
+.gToMWl {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 400;
+}
+}
+
+
+
+.hHqwcp {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-bottom: 4px;
+}
+
+
+.kfWoKA {
+    position: relative;
+    display: flex;
+}
+
+.bVFGPq {
+    white-space: nowrap;
+    overflow: hidden;
+    padding: 8px 40px 8px 8px;
+    width: 100%;
+    border-radius: 4px;
+    font-size: 1rem;
+    line-height: 1.75rem;
+    font-weight: 400;
+    font-family: Bitso, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    transition: all 0.1s ease-in 0s;
+    border: 1px solid rgb(209, 216, 223);
+    background: rgb(255, 255, 255);
+    color: rgb(25, 30, 35);
+}
+
+@media screen and (min-width: 768px){
+.bVFGPq {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 400;
+}
+}
+
+
+
+.bMnjGK .self-align-start {
+    align-self: flex-start;
+}
+
+
+.kERQUK {
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 8px;
+    height: auto;
+    width: auto;
+    border: none;
+    background: none;
+    border-radius: 32px;
+    color: rgb(9, 131, 0);
+    margin: 0px;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.15s ease 0s;
+    white-space: nowrap;
+}
+
+
+
+@media screen and (min-width: 768px){
+.kERQUK {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 700;
+}
+}
+
+.bVVGwr {
+    position: relative;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    border-radius: 32px;
+    padding: 0px 24px;
+    gap: 8px;
+    height: 48px;
+    width: initial;
+    background: rgb(41, 172, 0);
+    border: 1px solid rgb(41, 172, 0);
+    color: rgb(255, 255, 255);
+    text-shadow: rgba(12, 15, 18, 0.35) 0px 0px 8px;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.15s ease 0s;
+    white-space: nowrap;
+}
+
+@media screen and (min-width: 768px){
+.bVVGwr {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 700;
+}
+}
+
+
